@@ -1,0 +1,29 @@
+[{
+		"package": "limitless",
+		"title": "Limitless",
+		"description": "Responsive Web Application Kit",
+		"repository": "https://github.com/Acepmon/g-framework-limitless",
+		"version": "2.2"
+	},
+	{
+		"package": "future-imperfect",
+		"title": "Future Imperfect",
+		"description": "Future Imperfect by HTML5 UP",
+		"repository": "https://github.com/Acepmon/g-framework-future-imperfect",
+		"version": "1.0"
+	},
+	{
+		"package": "canvas",
+		"title": "Canvas",
+		"description": "The Multi-Purpose HTML5 Template",
+		"repository": "https://github.com/Acepmon/g-framework-canvas",
+		"version": "5.9"
+	},
+	{
+		"package": "car-web",
+		"title": "Car-Web",
+		"description": "Web version of Car Dealership Template",
+		"repository": "https://github.com/Acepmon/carweb-theme",
+		"version": "1.0"
+	}
+]
